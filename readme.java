@@ -1,4 +1,4 @@
-package com.inwhoop.xbzhjypt.gis.activity;
+﻿package com.inwhoop.xbzhjypt.gis.activity;
 
 import android.os.Bundle;
 import android.support.v4.app.FragmentTransaction;
@@ -11,17 +11,7 @@ import com.inwhoop.xbzhjypt.gis.fragment.LocationFragment;
 import com.inwhoop.xbzhjypt.main.activity.BaseFragmentActivity;
 import com.xbzhjypt.activity.R;
 
-/**
- * @Project: xinban
- * @Title: CampusSafeActivity.java
- * @Package com.inwhoop.xbzhjypt.activity
- * @Description: TODO
- * 
- * @author dyong199046@163.com 代勇
- * @date 2014-5-26 下午2:51:26
- * @Copyright: 2014 呐喊信息技术 All rights reserved.
- * @version V1.0
- */
+
 public class CampusSafeActivity extends BaseFragmentActivity implements
 		OnClickListener {
 
